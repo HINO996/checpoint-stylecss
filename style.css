@@ -1,0 +1,123 @@
+
+
+  .header{
+  }
+  .div-title{
+      color: rgb(5, 143, 97);
+  }
+  .navar{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: white;
+  }
+  
+  a{
+      text-decoration: none;
+      color: rgb(62, 136, 111);
+  }
+  .nav-link1, .nav-link2, .nav-link3{
+      margin-left: 3em;
+  }
+
+.first{
+    width: auto;
+    height: auto;
+    background-color: blue;
+}
+
+h1 {
+   text-align: center;
+    color: red;
+}
+
+h2{
+    text-align: center;
+    color: white
+}
+.box{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav{
+    height: 100%;
+    display: inline;
+}
+.box1,.box2,.box3,.box4 {
+    width:10em;
+    height: 8em;
+}
+.milieu  { 
+    width: auto;
+    height: auto;
+    background-color: gray;  
+}
+.h{
+    text-align: center;
+    color: red;width: auto;
+}
+.img{
+    height: 400px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.phts {
+    height: auto;
+}
+.img1, .img2, .img3, .img4, .img5, .img6 {
+    width: 15em;
+    height: 08em;
+}
+.end{
+    width: auto;
+    height: 600px;
+    background-color: yellow;
+
+}
+.Titre{
+    text-align: center;
+    color: red;
+}
+.reseau
+{   height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 100;
+}
+
+.logo1, .logo2, .logo3, .logo4 {
+     width: 10em;
+     height: 8em;
+}
+
+.email{
+    text-align: center;
+    color: black;
+    
+}
+.flex {
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+}
+.div {
+display: block;
+}
+.img7{
+    display: flex;
+   justify-self: end;
+   height: 10em;
+}
+.footer{
+    width: auto;
+    height: 50px;
+}
+p{
+    text-align: center;
+}
